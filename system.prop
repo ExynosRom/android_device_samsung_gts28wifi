@@ -1,14 +1,2 @@
-#
-# system.prop for gts28wifi
-#
-
-# Disable ril
+# Wifi model
 ro.radio.noril=yes
-
-# WIFI model
-ro.carrier=wifi-only
-
-# Enable adb
-persist.service.adb.enable=1
-persist.service.debuggable=1
-ro.adb.secure=0
