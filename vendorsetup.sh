@@ -1,0 +1,2 @@
+add_lunch_combo aosp_gts28wifi-eng
+add_lunch_combo aosp_gts28wifi-userdebug
